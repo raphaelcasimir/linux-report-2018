@@ -9,4 +9,4 @@
 * `bash` : Lance l'interpréteur de commande "bash".
 * `unset VV` : Supprime la variable dans le shell actuel / local.
 * `exit` : Quitte le bash actuel.
-* `echo $VV` : Renvoie 3 car la variable n'a pas été supprimée dans cet environnement
+* `echo $VV` : Renvoie 3 car la variable n'a pas été supprimée dans cet environnement 
